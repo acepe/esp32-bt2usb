@@ -1,4 +1,4 @@
-# ESP32 Bluetooth/BLE keyboard to USB adapter
+# ESP32-S3 Bluetooth/BLE keyboard to USB adapter
 
 Project to connect a BLE keyboard wirelessly via USB to a computer. Usefull for editing BIOS-Settings or unlocking full-disk-encryption when bluetooth is not (yet) available.
 
