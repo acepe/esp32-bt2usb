@@ -6,6 +6,13 @@ Project to connect a BLE keyboard wirelessly via USB to a computer. Usefull for 
 
 WARNING: This project is for use in ESP-32-S3 module with BLE and USB-OTG support. If you have another variant, you'll have to adapt the code. Plain ESP32 will not work, due to missing USB-OTG support.
 
+# Missing Features
+
+Keyboard LEDs (Caps-Lock, Num-Lock etc) are not working (the keys are working fine, just not the LEDs).
+Media-Keys might not work.
+
+I currently have no intention to fix that, because it is not needed for my usecase.
+
 # Building and flashing
 
 Project works as-is under Visual Studio Code (2023). You need to have the Espressif IDF extension installed and the v5.1 of the ESP-IDF SDK. Workflow is as follows:
