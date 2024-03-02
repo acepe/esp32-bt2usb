@@ -1,6 +1,6 @@
 /*
 ESP32-BT2USB
-Software for Espressif ESP32-S3 (and others with USB-OTG Support) Bluetooth BLE HID keyboard to USB interfacing.
+Software for Espressif ESP32-S3 (and others with USB-OTG Support) for Bluetooth BLE HID keyboard to USB interfacing.
 Based on esp32-BT2PS2 (https://github.com/Hamberthm/esp32-bt2ps2) by Humberto Möckel. Adapted by André Ackermann for USB interface instead of PS2.
 Thanks to Humberto Möckel and all the pioneers who worked on the code libraries that made this project possible, check them on the README!
 Copyright Humberto Möckel - Hamcode - 2023 (hamberthm@gmail.com), André Ackermann - 2024,
