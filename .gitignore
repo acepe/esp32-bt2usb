@@ -1,0 +1,6 @@
+.devcontainer/*
+build/*
+managed_components/*
+sdkconfig.old
+dependencies.lock
+.directory
