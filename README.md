@@ -29,7 +29,7 @@ Project works as-is under Visual Studio Code (2023). You need to have the Espres
 
 6- Select Express, and under "Select ESP-IDF version" choose v5.1-rc2
 
-7- After installation, select File > Open Folder and open the ESP32-BT2PS2 project folder
+7- After installation, select File > Open Folder and open the ESP32-BT2USB project folder
 
 8- Start building by pressing Ctrl+E and then B, or using the Build button in the bottom bar
 
